@@ -18,11 +18,7 @@ public class Main {
                 }
             }
 
-            if (sum == number) {
-                return true;
-            } else {
-                return false;
-            }
+            return sum == number;
         }
     }
 }
