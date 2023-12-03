@@ -1,3 +1,4 @@
+/* Section 10, Practice 11 */
 public class Dimension {
     private int feet;
     private int inches;
